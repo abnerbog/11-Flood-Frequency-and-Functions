@@ -1,6 +1,11 @@
-# Chapter 11: Flood Frequency and Functions
-JP Gannon
-2026-02-13
+---
+title: 'Chapter 11:  Flood Frequency and Functions'
+date: 2026-03-23T00:00:00.000Z
+authors:
+  - id: jpgannon
+github: https://github.com/VT-Hydroinformatics/11-Flood-Frequency-and-Functions
+---
+
 
 # Flood Frequency Analysis and Creating Functions
 
@@ -341,8 +346,8 @@ summary(GEVD)
 
      Estimated parameter covariance matrix.
                   location        scale         shape
-    location 2852912.64935 1543631.4282 -40.062719605
-    scale    1543631.42821 2046683.4772  -1.826299701
+    location 2852912.67983 1543631.4491 -40.062720729
+    scale    1543631.44914 2046683.4900  -1.826300168
     shape        -40.06272      -1.8263   0.006270757
 
      AIC = 3014.844 
