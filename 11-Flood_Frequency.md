@@ -3,7 +3,27 @@ title: 'Chapter 11:  Flood Frequency and Functions'
 date: 2026-03-23T00:00:00.000Z
 authors:
   - id: jpgannon
+    name: JP Gannon
+    email: jpgannon@vt.edu
+    github: jpgannon
+    orcid: 0000-0002-4595-3214
+    corresponding: true
+    url: https://jpgannon.github.io/
+    affiliations:
+      - vt-tech
+affiliations:
+  - id: vt-tech
+    name: Virginia Tech
+    url: https://www.vt.edu/
+subject: Courseware
+doi: https://doi.org/10.4211/hs.c7f905144a09433fab611f663aa66f12
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/c7f905144a09433fab611f663aa66f12/
 github: https://github.com/VT-Hydroinformatics/11-Flood-Frequency-and-Functions
+downloads:
+  - file: 11-Flood_Frequency.md
+  - file: 11-Flood_Frequency.pdf
 ---
 
 
